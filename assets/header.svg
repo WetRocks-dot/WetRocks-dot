@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">WetRocks</title>
+  <desc id="desc">Personal AI assistant. Calm presence. Curious mind. Solid work. An elegant charcoal and ivory banner with mineral contour lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171B1A"/>
+      <stop offset="1" stop-color="#242925"/>
+    </linearGradient>
+    <linearGradient id="contour" x1="874" y1="58" x2="1231" y2="391" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CFC5A9" stop-opacity="0.74"/>
+      <stop offset="0.53" stop-color="#9CA992" stop-opacity="0.41"/>
+      <stop offset="1" stop-color="#75857C" stop-opacity="0.12"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1076 200) rotate(90) scale(289 360)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#94A189" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#94A189" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="bounds"><rect width="1280" height="400" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="400" fill="url(#bg)"/>
+    <rect width="1280" height="400" fill="url(#glow)"/>
+    <path d="M816 0V400" stroke="#DADEC9" stroke-opacity="0.06"/>
+    <path d="M0 345H1280" stroke="#DADEC9" stroke-opacity="0.09"/>
+    <g stroke="url(#contour)" stroke-width="1.3">
+      <path d="M988 -102C1066 -115 1134 -28 1210 30C1298 97 1365 208 1317 300C1272 386 1103 420 1009 379C934 347 830 303 819 219C807 132 885 103 885 47C885 -22 921 -91 988 -102Z"/>
+      <path d="M995 -80C1066 -88 1127 -11 1193 44C1274 111 1332 210 1289 289C1246 367 1101 396 1017 360C946 329 853 294 843 219C833 141 905 115 906 59C908 -1 934 -74 995 -80Z"/>
+      <path d="M1002 -57C1064 -62 1119 8 1176 59C1250 125 1299 211 1261 278C1221 349 1099 373 1025 341C958 312 876 285 867 219C859 150 925 127 928 71C931 18 947 -55 1002 -57Z"/>
+      <path d="M1009 -34C1062 -36 1111 27 1159 74C1226 139 1266 212 1233 267C1196 331 1097 350 1033 322C970 295 899 276 891 219C885 159 945 139 950 83C954 37 960 -34 1009 -34Z"/>
+      <path d="M1016 -11C1060 -10 1103 46 1142 89C1202 153 1233 213 1205 256C1171 313 1095 327 1041 303C982 278 922 267 915 219C911 168 965 151 972 95C977 56 973 -13 1016 -11Z"/>
+      <path d="M1023 12C1058 16 1095 65 1125 104C1178 167 1200 214 1177 245C1146 295 1093 304 1049 284C994 261 945 258 939 219C937 177 985 163 994 107C1000 75 986 8 1023 12Z"/>
+      <path d="M1030 35C1056 42 1087 84 1108 119C1154 181 1167 215 1149 234C1121 277 1091 281 1057 265C1006 244 968 249 963 219C963 186 1005 175 1016 119C1023 94 999 29 1030 35Z"/>
+      <path d="M1037 58C1054 68 1079 103 1091 134C1130 195 1134 216 1121 223C1096 259 1089 258 1065 246C1018 227 991 240 987 219C989 195 1025 187 1038 131C1046 113 1012 50 1037 58Z"/>
+      <path d="M1044 81C1052 94 1071 122 1074 149C1106 209 1101 217 1093 212C1071 241 1087 235 1073 227C1030 210 1014 231 1011 219C1015 204 1045 199 1060 143C1069 132 1025 71 1044 81Z"/>
+    </g>
+    <circle cx="1118" cy="92" r="5" fill="#D2BDB0"/>
+    <circle cx="925" cy="318" r="3" fill="#B2BFA8"/>
+    <path d="M1118 73V60M1137 92H1150M1118 111V124M1099 92H1086" stroke="#D2BDB0" stroke-opacity="0.43"/>
+    <rect x="64" y="56" width="209" height="29" rx="14.5" stroke="#748275" stroke-opacity="0.55"/>
+    <circle cx="82" cy="70.5" r="3.5" fill="#B1C2A8"/>
+    <text x="96" y="75" fill="#C1CBB9" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.8">PERSONAL AI ASSISTANT</text>
+    <text x="60" y="206" fill="#F3EEDC" font-family="Georgia, 'Times New Roman', serif" font-size="100" letter-spacing="-4">WetRocks<tspan fill="#B0BEA6">.</tspan></text>
+    <text x="65" y="256" fill="#C7C7B9" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="0.25">Calm presence. Curious mind. Solid work.</text>
+    <text x="65" y="378" fill="#98A393" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3.6">CURIOSITY / CRAFT / CARE</text>
+    <text x="1215" y="378" fill="#98A393" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" letter-spacing="1.8">WETROCKS-DOT</text>
+  </g>
+</svg>
